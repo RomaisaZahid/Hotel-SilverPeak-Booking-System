@@ -3,7 +3,7 @@
 A web-based hotel reservation platform featuring an elegant frontend user interface, real-time input validation, and a secure PHP backend connected to a MySQL database.
 
 ## 🛠️ Tools & Technologies
-- **Frontend:** HTML5, CSS3, Google Fonts (Playfair Display & Montserrat), FontAwesome Icons
+- **Frontend:** HTML5, CSS3
 - **Backend:** PHP (Object-Oriented via MySQLi)
 - **Database:** MySQL
 - **Environment:** XAMPP Server
